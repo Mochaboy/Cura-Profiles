@@ -1,0 +1,118 @@
+PK       ! "só2­   ­      custom_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+
+[values]
+layer_height = 0.4
+
+PK       ! õ±4§   §   "   custom_extruder_8_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 7
+
+[values]
+
+PK       ! c}ô§   §   "   custom_extruder_4_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 3
+
+[values]
+
+PK       ! ¾¢íT§   §   "   custom_extruder_6_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 5
+
+[values]
+
+PK       ! (ÈT”§   §   "   custom_extruder_2_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 1
+
+[values]
+
+PK       ! ­ÂI§   §   "   custom_extruder_1_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 0
+
+[values]
+
+PK       ! ;{{‰§   §   "   custom_extruder_5_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 4
+
+[values]
+
+PK       ! pÎ'é§   §   "   custom_extruder_7_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 6
+
+[values]
+
+PK       ! æ¤ž)§   §   "   custom_extruder_3_#2_draft_#2_.4mm[general]
+version = 4
+name = Draft #2 .4mm
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+type = quality_changes
+setting_version = 5
+position = 2
+
+[values]
+
+PK        ! "só2­   ­                    custom_draft_#2_.4mmPK        ! õ±4§   §   "             ß   custom_extruder_8_#2_draft_#2_.4mmPK        ! c}ô§   §   "             Æ  custom_extruder_4_#2_draft_#2_.4mmPK        ! ¾¢íT§   §   "             ­  custom_extruder_6_#2_draft_#2_.4mmPK        ! (ÈT”§   §   "             ”  custom_extruder_2_#2_draft_#2_.4mmPK        ! ­ÂI§   §   "             {  custom_extruder_1_#2_draft_#2_.4mmPK        ! ;{{‰§   §   "             b  custom_extruder_5_#2_draft_#2_.4mmPK        ! pÎ'é§   §   "             I  custom_extruder_7_#2_draft_#2_.4mmPK        ! æ¤ž)§   §   "             0  custom_extruder_3_#2_draft_#2_.4mmPK    	 	 Â      
